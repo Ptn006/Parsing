@@ -1,2 +1,0 @@
-# JS
-My Introduction page
